@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rest-api-example</string>
+    <string name="placeholder_title">TITLE</string>
+</resources>
